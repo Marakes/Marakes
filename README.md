@@ -9,7 +9,7 @@ I build fintech products and algorithmic systems - and I understand the domain: 
 * **B2B2C Telegram MiniApp** (FastAPI, Aiogram, RAG) - AI-driven recommendation engine for niche business automation.
 
 #### Tech Stack
-- **Core & Frameworks:** Python, FastAPI, Django
+- **Core & Frameworks:** Python, FastAPI, Django, Flask
 - **Data & Async:** PostgreSQL, SQLAlchemy 2.0, Pydantic v2, Alembic, Redis, Celery
 - **Infrastructure & QA:** Docker, Linux, Git/GitHub Actions (CI/CD), Pytest
 - **Domain & Integrations:** Stripe API, CCXT, Aiogram, Pandas/NumPy, DeepSeek/OpenAI (RAG)
