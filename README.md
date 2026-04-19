@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi, I'm George 👋
 
-<!--
-**Marakes/Marakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Backend Developer with an MSc in Finance and 5 years of crypto trading. 
+I build fintech products and algorithmic systems - and I understand the domain: orderbooks, P2P mechanics, liquidity, and execution logic.
 
-Here are some ideas to get you started:
+#### Currently shipping
+* **Digital Wallet** (FastAPI, Redis, Stripe) - A service for fiat/crypto assets and P2P transfers.
+* **Autonomous Arbitrage Bot** (Pandas, CCXT, Bybit API) - Statistical arbitrage system with WFO and parallel backtesting.
+* **B2B2C Telegram MiniApp** (FastAPI, Aiogram, RAG) - AI-driven recommendation engine for niche business automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+- **Core & Frameworks:** Python, FastAPI, Django, Pydantic v2
+- **Data & Async:** PostgreSQL, SQLAlchemy 2.0, Alembic, Redis, Celery
+- **Infrastructure & QA:** Docker, Linux, Git/GitHub Actions (CI/CD), Pytest
+- **Domain & Integrations:** Stripe API, CCXT, Aiogram, Pandas/NumPy, DeepSeek/OpenAI (RAG)
+
+#### Focus & Growth
+* Deepening knowledge in system design and high-load architecture.
+* Solving algorithmic challenges on LeetCode.
+* Leveraging AI assistants to accelerate development workflows and refactoring.
+
+#### Let's Connect
+* **Telegram:** https://t.me/cloudbuddy_agent
+* **Email:** georgequgequge@gmail.com
