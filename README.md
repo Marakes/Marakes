@@ -20,5 +20,5 @@ I build fintech products and algorithmic systems - and I understand the domain: 
 * Leveraging AI assistants to accelerate development workflows and refactoring.
 
 #### Let's Connect
-* **Telegram:** https://t.me/cloudbuddy_agent
+* **Telegram:** https://t.me/abc_george
 * **Email:** georgequgequge@gmail.com
